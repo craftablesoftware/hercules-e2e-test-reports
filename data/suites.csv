@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2350","Edit phone number","chromium","2026-05-07","passed","2026-05-07","Account settings","","",""
+"","3930","Edit restaurant name","chromium","2026-05-07","passed","2026-05-07","Account settings","","",""
+"","2313","Log out account through account settings","chromium","2026-05-07","passed","2026-05-07","Account settings","","",""
+"","1997","Verify website domain","chromium","2026-05-07","passed","2026-05-07","Account settings","","",""
+"","3348","Log out account through header","chromium","2026-05-07","passed","2026-05-07","Dashboard","","",""
+"","11497","Authenticate","setup","2026-05-07","passed","2026-05-07","","","",""
+"","1909","Verify account email","chromium","2026-05-07","passed","2026-05-07","Account settings","","",""
